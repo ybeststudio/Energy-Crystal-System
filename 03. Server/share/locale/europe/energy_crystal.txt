@@ -1,0 +1,5 @@
+# Enerji Kristali (Anka) - energy_crystal.cpp
+# katalizor: deger = alt + (ust - alt) * u^skew (buyuk skew = yuksek degerler daha nadir)
+catalyst_skew 4
+# enerji, son vurus/darbeden sonra bu kadar saniye savasta sayilir
+combat_seconds 10

@@ -1,0 +1,58 @@
+BERANSETAOU	ÇáÊäíä ÇáÃÒÑÞ
+CATACUMB	ÓÑÇÏíÈ ÇáÔíÇØíä
+DEVILTOWER	ÈÑÌ ÇáÔíØÇä
+ENERGY_CRYSTAL	ÈáæÑÉ ÇáØÇÞÉ
+ENERGY_CRYSTAL_ACTIVATE	ÊÝÚíá
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	ãÊæÓØ ÇáÖÑÑ ÖÏ ÇáæÍæÔ
+ENERGY_CRYSTAL_BONUS_DUNGEON	ÇáÞæÉ Ýí ÇáÃÈÑÇÌ ÇáãÍÕäÉ
+ENERGY_CRYSTAL_BONUS_ELEMENT	ÍãÇíÉ ÇáÚäÇÕÑ
+ENERGY_CRYSTAL_BONUS_EREBUS	ÞæÉ ÖÏ ÅÑíÈæÓ
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	ãØáæÈ {} áÝÊÍ åÐå ÇáãßÇÝÃÉ.
+ENERGY_CRYSTAL_BONUS_MELEY	ÞæÉ ÖÏ ãíáí
+ENERGY_CRYSTAL_CONSUME	åá ÊÑíÏ ÇÓÊÎÏÇã 1x {}¿
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BíÚÒøÒ ãßÇÝÂÊ ÇáÞÊÇá ÇáÊí ÝÊÍÊåÇ.|r^|cFF9FD6A8ÇÝÊÍ ÇáãßÇÝÂÊ¡ Ëã ÝÚøá ÇáÈáæÑÉ.|r^|cFFCABDABÇáÊÑÞíÉ ÊÒíÏ ÇáÍÏ ÇáÃÞÕì ááÊÚÒíÒ.|r^|cFFCABDABÇáãÍÝøÒÇÊ ÊÚíÏ ÊÍÏíÏ ÇáÊÚÒíÒ ÚÔæÇÆíÇð.|r^|cFF87CEEBÇáÅßÓíÑ íÚíÏ ÔÍä ÇáØÇÞÉ.|r
+ENERGY_CRYSTAL_INVALID_TARGET	ÇÓÊÎÏã ÃËÑ ØÇÞÉ Ãæ ÅßÓíÑ ØÇÞÉ Ãæ æÑÞÉ ÈÑßÉ Úáì ÈáæÑÉ ØÇÞÉ.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	åá ÊÑíÏ ÅÖÇÝÉ {} ÈÔßá ÏÇÆã¿
+ENERGY_CRYSTAL_RATE	ÇáÊÚÒíÒ: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	ÇáÊÚÒíÒ ÇáÌÏíÏ: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	ÝÔá ÊØæíÑ ÈáæÑÉ ÇáØÇÞÉ (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Êã ÊØæíÑ ÈáæÑÉ ÇáØÇÞÉ Åáì +{}.
+ENERGY_CRYSTAL_TIME	ÇáØÇÞÉ ÇáãÊÈÞíÉ: {} / {}
+ENERGY_CRYSTAL_TIME_D	{} í
+ENERGY_CRYSTAL_TIME_H	{} Ó
+ENERGY_CRYSTAL_TIME_LEFT	ÇáæÞÊ ÇáãÊÈÞí: {}
+ENERGY_CRYSTAL_TIME_M	{} Ï
+ENERGY_CRYSTAL_TIME_S	{} Ë
+ENERGY_CRYSTAL_TITLE	ÈáæÑÉ ÇáØÇÞÉ
+ENERGY_CRYSTAL_TURN_OFF	ÅíÞÇÝ
+ENERGY_CRYSTAL_UNLOCK	ÝÊÍ
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	åá ÊÑíÏ ÝÊÍ ÈáæÑÉ ÇáØÇÞÉ ÇáÎÇÕÉ Èß ÈÔßá ÏÇÆã¿
+ENERGY_CRYSTAL_UNLOCK_MISSING	ÊÍÊÇÌ Åáì ãÝÊÇÍ ÈáæÑÉ ÇáØÇÞÉ.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	íÊØáÈ ÅßãÇá åÐÇ |cffb1a085{0}|r.
+FLAMEDUNGEON	ÞáÚÉ ÇáÊäíä ÇáÃÍãÑ
+HYDRADUNGEON	ÏÝÇÚ ÇáÓÝíäÉ
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	ÚÑíä Meley
+SHOP_TAB_ALCHEMIST	ÇáßíãíÇÆí
+SHOP_TAB_BIOLOG	ÚÇáã ÇáÃÍíÇÁ
+SHOP_TAB_BIOLOG_TIME	æÞÊ ÚÇáã ÇáÃÍíÇÁ
+SHOP_TAB_DEW_RECHARGE	ÊÌÏíÏ ÇáäÏì
+SHOP_TAB_DRAGON_RECHARGE	ÔÍä ÇáÊäíä
+SHOP_TAB_ENERGY_CRYSTAL	ÈáæÑÉ ÇáØÇÞÉ
+SNOWDUNGEON	ãÑÕÏ Nemere
+SPIDERBARONESA	ÚÑíä Barones ÇáÚäßÈæÊ
+WIKI_AKZADUR	ÒäÒÇäÉ Akzadur
+WIKI_ALCHEMY	äÙÇã ÇáßíãíÇÁ
+WIKI_ATTR_RARE	ãßÇÝÃÉ 6/7
+WIKI_BIOLOGO	ÚÇáã ÇáÃÍíÇÁ
+WIKI_BOOSTER	ÇáãÚÒÒÇÊ
+WIKI_COSTUME	ÇáÃÒíÇÁ æÇáãÙÇåÑ
+WIKI_ENERGY_CRYSTAL	ÈáæÑÉ ÇáØÇÞÉ
+WIKI_ENIGMA_ITEMS	ÚäÇÕÑ Enigma
+WIKI_FISHING_MINING	ÇáÕíÏ/ÇáÊÚÏíä
+WIKI_PETS	ÇáÍíæÇäÇÊ ÇáÃáíÝÉ
+WIKI_SYSTEM2	ÇáÃäÙãÉ ÇáÃÓÇÓíÉ
+WIKI_TALISMAN	ÇáÊãÇÆã
+WIKI_TEMNITE	ÇáÒäÒÇäÇÊ
+WIKI_ZODIAC	ãÚÈÏ ÒæÏíÇß

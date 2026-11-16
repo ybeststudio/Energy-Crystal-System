@@ -1,0 +1,58 @@
+BERANSETAOU	Blue Dragon
+CATACUMB	Devil's Catacombs
+DEVILTOWER	Gumsan Tower
+ENERGY_CRYSTAL	Energy Crystal
+ENERGY_CRYSTAL_ACTIVATE	Activate
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Average Damage PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Strength in Dungeons
+ENERGY_CRYSTAL_BONUS_ELEMENT	Element Protection
+ENERGY_CRYSTAL_BONUS_EREBUS	Strong against Erebus
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	{} is required to unlock this bonus.
+ENERGY_CRYSTAL_BONUS_MELEY	Strong against Meley
+ENERGY_CRYSTAL_CONSUME	Use one {}?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BAmplifies your unlocked combat bonuses.|r^|cFF9FD6A8Unlock bonuses, then activate the crystal.|r^|cFFCABDABRefining raises maximum amplification.|r^|cFFCABDABCatalysts reroll amplification.|r^|cFF87CEEBElixirs recharge energy.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Use an energy artifact, energy elixir or Blessing Scroll on an energy crystal.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Permanently add {}?
+ENERGY_CRYSTAL_RATE	Amplification: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	New boost: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Energy Crystal upgrade failed (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Energy Crystal upgraded to +{}.
+ENERGY_CRYSTAL_TIME	Energy remaining: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}d
+ENERGY_CRYSTAL_TIME_H	{} h.
+ENERGY_CRYSTAL_TIME_LEFT	Time Left: {}
+ENERGY_CRYSTAL_TIME_M	{} min.
+ENERGY_CRYSTAL_TIME_S	{} s
+ENERGY_CRYSTAL_TITLE	Energy Crystal
+ENERGY_CRYSTAL_TURN_OFF	Turn off
+ENERGY_CRYSTAL_UNLOCK	Unlock
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Permanently unlock your Energy Crystal?
+ENERGY_CRYSTAL_UNLOCK_MISSING	You need an Energy Crystal Unlocker.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	|cffb1a085{0}|r is required to complete this.
+FLAMEDUNGEON	Red Dragon Fortress
+HYDRADUNGEON	Ship Defense
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meley's Lair
+SHOP_TAB_ALCHEMIST	Alchemist
+SHOP_TAB_BIOLOG	Biologist
+SHOP_TAB_BIOLOG_TIME	Biologist Time
+SHOP_TAB_DEW_RECHARGE	Dew Recharge
+SHOP_TAB_DRAGON_RECHARGE	Dragon Recharge
+SHOP_TAB_ENERGY_CRYSTAL	Energy Crystal
+SNOWDUNGEON	Nemere's Observatory
+SPIDERBARONESA	Spider Baroness's Lair
+WIKI_AKZADUR	Akzadur Dungeon
+WIKI_ALCHEMY	Alchemy System
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biologist
+WIKI_BOOSTER	Boosters
+WIKI_COSTUME	Costumes
+WIKI_ENERGY_CRYSTAL	Energy Crystal
+WIKI_ENIGMA_ITEMS	Enigma Items
+WIKI_FISHING_MINING	Fishing/Mining
+WIKI_PETS	Pets
+WIKI_SYSTEM2	Basic Systems
+WIKI_TALISMAN	Talismans
+WIKI_TEMNITE	Dungeons
+WIKI_ZODIAC	Zodiac Temple

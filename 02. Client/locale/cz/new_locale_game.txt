@@ -1,0 +1,58 @@
+BERANSETAOU	Modrý drak
+CATACUMB	Ïáblovy katakomby
+DEVILTOWER	Vìž Gumsan
+ENERGY_CRYSTAL	Krystal energie
+ENERGY_CRYSTAL_ACTIVATE	Aktivovat
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Prùmìrné poškození PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Síla v dungeonech
+ENERGY_CRYSTAL_BONUS_ELEMENT	Ochrana živlù
+ENERGY_CRYSTAL_BONUS_EREBUS	Silný proti Erebovi
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	K odemèení tohoto bonusu je potøeba {}.
+ENERGY_CRYSTAL_BONUS_MELEY	Silný proti Meley
+ENERGY_CRYSTAL_CONSUME	Použít 1x {}?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BZesiluje odemèené bojové bonusy.|r^|cFF9FD6A8Odemkni bonusy a aktivuj krystal.|r^|cFFCABDABVylepšování zvyšuje maximální zesílení.|r^|cFFCABDABKatalyzátory náhodnì mìní zesílení.|r^|cFF87CEEBElixíry doplòují energii.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Použij energetický artefakt, energetický lektvar nebo Svitek požehnání na energetický krystal.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Trvale pøidat {}?
+ENERGY_CRYSTAL_RATE	Zesílení: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Nové posílení: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Vylepšení Energetického krystalu selhalo (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Energetický krystal byl vylepšen na +{}.
+ENERGY_CRYSTAL_TIME	Zbývající energie: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}d
+ENERGY_CRYSTAL_TIME_H	{} h
+ENERGY_CRYSTAL_TIME_LEFT	Zbývající èas: {}
+ENERGY_CRYSTAL_TIME_M	{} min
+ENERGY_CRYSTAL_TIME_S	{} s
+ENERGY_CRYSTAL_TITLE	Krystal energie
+ENERGY_CRYSTAL_TURN_OFF	Zavøít
+ENERGY_CRYSTAL_UNLOCK	Odemknout
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Trvale odemknout energetický krystal?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Potøebuješ odemykaè energetického krystalu.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	K dokonèení je potøeba |cffb1a085{0}|r.
+FLAMEDUNGEON	Pevnost Rudého draka
+HYDRADUNGEON	Obrana proti lodím
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meleyino doupì
+SHOP_TAB_ALCHEMIST	Alchymista
+SHOP_TAB_BIOLOG	biolog
+SHOP_TAB_BIOLOG_TIME	Èas biologù
+SHOP_TAB_DEW_RECHARGE	Obnova rosy
+SHOP_TAB_DRAGON_RECHARGE	Dragon Recharge
+SHOP_TAB_ENERGY_CRYSTAL	Krystal energie
+SNOWDUNGEON	Nemerova observatoø
+SPIDERBARONESA	Doupì Baronky
+WIKI_AKZADUR	Akzadurùv dungeon
+WIKI_ALCHEMY	Alchymistický systém
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	biolog
+WIKI_BOOSTER	Posilovaèe
+WIKI_COSTUME	Kostýmy
+WIKI_ENERGY_CRYSTAL	Krystal energie
+WIKI_ENIGMA_ITEMS	Pøedmìty Enigmy
+WIKI_FISHING_MINING	Rybolov/tìžba
+WIKI_PETS	Mazlíci
+WIKI_SYSTEM2	Základní systémy
+WIKI_TALISMAN	Talismany
+WIKI_TEMNITE	Podzemí
+WIKI_ZODIAC	Chrám zvìrokruhu

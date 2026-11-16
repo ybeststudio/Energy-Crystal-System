@@ -1,0 +1,58 @@
+BERANSETAOU	Dragonul Albastru
+CATACUMB	Catacombele Diavolului
+DEVILTOWER	Turnul Gumsan
+ENERGY_CRYSTAL	Cristal de energie
+ENERGY_CRYSTAL_ACTIVATE	Activeazã
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Pagubã medie PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Putere în temnite
+ENERGY_CRYSTAL_BONUS_ELEMENT	Protecþie element
+ENERGY_CRYSTAL_BONUS_EREBUS	Putere împotriva lui Erebus
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	Pentru a debloca acest bonus este necesar: {}.
+ENERGY_CRYSTAL_BONUS_MELEY	Putere împotriva lui Meley
+ENERGY_CRYSTAL_CONSUME	Foloseste un {}?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BAmplificã bonusurile de luptã deblocate.|r^|cFF9FD6A8Deblocheazã bonusurile, apoi activeazã cristalul.|r^|cFFCABDABÎmbunãtãtirea creste amplificarea maximã.|r^|cFFCABDABCatalizatorii aleg aleatoriu o nouã amplificare.|r^|cFF87CEEBElixirele reîncarcã energia.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Foloseste un artefact de energie, elixir de energie sau Pergament Binecuvantat pe un cristal de energie.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Adauga permanent {}?
+ENERGY_CRYSTAL_RATE	Amplificare: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Întãrire nouã: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Îmbunãtãþirea Cristalului de Energie a eºuat (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Cristalul de Energie a ajuns la +{}.
+ENERGY_CRYSTAL_TIME	Energie ramasa: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}z
+ENERGY_CRYSTAL_TIME_H	{} h
+ENERGY_CRYSTAL_TIME_LEFT	Timp ramas: {}
+ENERGY_CRYSTAL_TIME_M	{} min
+ENERGY_CRYSTAL_TIME_S	{} s
+ENERGY_CRYSTAL_TITLE	Cristal de energie
+ENERGY_CRYSTAL_TURN_OFF	Opreste
+ENERGY_CRYSTAL_UNLOCK	Deblocheazã
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Deblochezi permanent cristalul tãu de energie?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Ai nevoie de un deblocator de cristal de energie.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	Pentru a finaliza acest lucru este necesar |cffb1a085{0}|r.
+FLAMEDUNGEON	Castelul Dragonului Roºu
+HYDRADUNGEON	Apãrarea Navei
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Adapostul lui Meley
+SHOP_TAB_ALCHEMIST	Alchimist
+SHOP_TAB_BIOLOG	Biolog
+SHOP_TAB_BIOLOG_TIME	Timpul biologului
+SHOP_TAB_DEW_RECHARGE	Reincarcare Roua
+SHOP_TAB_DRAGON_RECHARGE	Reîncãrcare Dragon
+SHOP_TAB_ENERGY_CRYSTAL	Cristal de energie
+SNOWDUNGEON	Observatorul lui Nemere
+SPIDERBARONESA	Cuibul Baronesei Pãianjen
+WIKI_AKZADUR	Temniþa Akzadur
+WIKI_ALCHEMY	Sistemul Alchimiei
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biolog
+WIKI_BOOSTER	Amplificatoare
+WIKI_COSTUME	Costumele
+WIKI_ENERGY_CRYSTAL	Cristal de energie
+WIKI_ENIGMA_ITEMS	Obiecte Enigma
+WIKI_FISHING_MINING	Pescuit/Mineritul
+WIKI_PETS	Insotitori
+WIKI_SYSTEM2	Sisteme de bazã
+WIKI_TALISMAN	Talismane
+WIKI_TEMNITE	Temnite
+WIKI_ZODIAC	Templul Zodiacului

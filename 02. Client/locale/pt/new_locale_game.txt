@@ -1,0 +1,58 @@
+BERANSETAOU	Dragão Azul
+CATACUMB	Catacumbas do Diabo
+DEVILTOWER	Torre do Demónio
+ENERGY_CRYSTAL	Cristal de energia
+ENERGY_CRYSTAL_ACTIVATE	Ativar
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Dano médio PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Força nas masmorras
+ENERGY_CRYSTAL_BONUS_ELEMENT	Proteção Elemental
+ENERGY_CRYSTAL_BONUS_EREBUS	Forte contra Erebus
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	{} é necessário para desbloquear este bônus.
+ENERGY_CRYSTAL_BONUS_MELEY	Forte contra Meley
+ENERGY_CRYSTAL_CONSUME	Usar 1x {}?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BAmplifica os teus bónus de combate desbloqueados.|r^|cFF9FD6A8Desbloqueia bónus e ativa o cristal.|r^|cFFCABDABMelhorar aumenta a amplificação máxima.|r^|cFFCABDABOs catalisadores sorteiam a amplificação de novo.|r^|cFF87CEEBOs elixires recarregam energia.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Use um artefato de energia, poção de energia ou Pergaminho de Bênção em um cristal de energia.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Adicionar {} permanentemente?
+ENERGY_CRYSTAL_RATE	Amplificação: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Novo reforço: {:.1f}%
+ENERGY_CRYSTAL_REFINE_FAIL	A melhoria do Cristal de Energia falhou (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	O Cristal de Energia subiu para +{}.
+ENERGY_CRYSTAL_TIME	Energia Restante: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}d
+ENERGY_CRYSTAL_TIME_H	{} h
+ENERGY_CRYSTAL_TIME_LEFT	Tempo restante: {}
+ENERGY_CRYSTAL_TIME_M	{} min
+ENERGY_CRYSTAL_TIME_S	{} s
+ENERGY_CRYSTAL_TITLE	Cristal de energia
+ENERGY_CRYSTAL_TURN_OFF	Fechar
+ENERGY_CRYSTAL_UNLOCK	Desbloquear
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Desbloquear permanentemente o teu cristal de energia?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Precisas de um desbloqueador de cristal de energia.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	Para concluir isto é necessário |cffb1a085{0}|r.
+FLAMEDUNGEON	Fortaleza do Dragão Vermelho
+HYDRADUNGEON	Defesa do Navio
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Covil de Meley
+SHOP_TAB_ALCHEMIST	Alquimista
+SHOP_TAB_BIOLOG	Biólogo
+SHOP_TAB_BIOLOG_TIME	Elixires do Tempo
+SHOP_TAB_DEW_RECHARGE	Recarga de Orvalhos
+SHOP_TAB_DRAGON_RECHARGE	Recarga do Dragão
+SHOP_TAB_ENERGY_CRYSTAL	Cristal de energia
+SNOWDUNGEON	Observatório de Nemere
+SPIDERBARONESA	Covil da Baronesa-Aranha
+WIKI_AKZADUR	Masmorra de Akzadur
+WIKI_ALCHEMY	Sistema de Alquimia
+WIKI_ATTR_RARE	Bônus 6/7
+WIKI_BIOLOGO	Biólogo
+WIKI_BOOSTER	Potencializadores
+WIKI_COSTUME	Trajes
+WIKI_ENERGY_CRYSTAL	Cristal de energia
+WIKI_ENIGMA_ITEMS	Itens Enigma
+WIKI_FISHING_MINING	Pesca/Mineração
+WIKI_PETS	Pets
+WIKI_SYSTEM2	Sistemas Básicos
+WIKI_TALISMAN	Talismãs
+WIKI_TEMNITE	Masmorras
+WIKI_ZODIAC	Templo do Zodíaco

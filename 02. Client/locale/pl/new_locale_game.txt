@@ -1,0 +1,58 @@
+BERANSETAOU	Niebieski Smok
+CATACUMB	Katakumby Diab³a
+DEVILTOWER	Wie¿a Gumsan
+ENERGY_CRYSTAL	Kryszta³ energii
+ENERGY_CRYSTAL_ACTIVATE	Aktywuj
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Œrednie obra¿enia PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Si³a w lochach
+ENERGY_CRYSTAL_BONUS_ELEMENT	Ochrona ¿ywio³u
+ENERGY_CRYSTAL_BONUS_EREBUS	Silny przeciwko Erebusowi
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	Aby odblokowaæ ten bonus, potrzebujesz: {}.
+ENERGY_CRYSTAL_BONUS_MELEY	Silny przeciwko Meley
+ENERGY_CRYSTAL_CONSUME	U¿yæ jednego {}?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BWzmacnia odblokowane bonusy bojowe.|r^|cFF9FD6A8Odblokuj bonusy, a nastêpnie aktywuj kryszta³.|r^|cFFCABDABUlepszanie zwiêksza maksymalne wzmocnienie.|r^|cFFCABDABKatalizatory losuj¹ wzmocnienie ponownie.|r^|cFF87CEEBEliksiry uzupe³niaj¹ energiê.|r
+ENERGY_CRYSTAL_INVALID_TARGET	U¿yj artefaktu energii, eliksiru energii lub Zwoju B³ogos³awieñstwa na Krysztale Energii.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Na sta³e dodaæ {}?
+ENERGY_CRYSTAL_RATE	Wzmocnienie: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Nowe wzmocnienie: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Ulepszenie Kryszta³u Energii nie powiod³o siê (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Kryszta³ Energii zosta³ ulepszony do poziomu +{}.
+ENERGY_CRYSTAL_TIME	Pozosta³a energia: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}d
+ENERGY_CRYSTAL_TIME_H	{} godz.
+ENERGY_CRYSTAL_TIME_LEFT	Pozosta³y czas: {}
+ENERGY_CRYSTAL_TIME_M	{} min
+ENERGY_CRYSTAL_TIME_S	{} s
+ENERGY_CRYSTAL_TITLE	Kryszta³ energii
+ENERGY_CRYSTAL_TURN_OFF	Wy³¹cz
+ENERGY_CRYSTAL_UNLOCK	Odblokuj
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Trwale odblokowaæ twój kryszta³ energii?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Potrzebujesz przedmiotu odblokowuj¹cego kryszta³ energii.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	Aby to ukoñczyæ, wymagane: |cffb1a085{0}|r
+FLAMEDUNGEON	Zamek Czerwonego Smoka
+HYDRADUNGEON	Obrona statku
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Legowisko Meley
+SHOP_TAB_ALCHEMIST	Alchemik
+SHOP_TAB_BIOLOG	Biolog
+SHOP_TAB_BIOLOG_TIME	Czas biologa
+SHOP_TAB_DEW_RECHARGE	Do³adowanie Rosy
+SHOP_TAB_DRAGON_RECHARGE	£adowanie smoka
+SHOP_TAB_ENERGY_CRYSTAL	Kryszta³ energii
+SNOWDUNGEON	Obserwatorium Nemere
+SPIDERBARONESA	Legowisko Baronowej Paj¹ków
+WIKI_AKZADUR	Loch Akzadur
+WIKI_ALCHEMY	System alchemii
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biolog
+WIKI_BOOSTER	Wzmacniacze
+WIKI_COSTUME	Kostiumy
+WIKI_ENERGY_CRYSTAL	Kryszta³ energii
+WIKI_ENIGMA_ITEMS	Przedmioty Enigmy
+WIKI_FISHING_MINING	£owienie/Górnictwo
+WIKI_PETS	Zwierzaki
+WIKI_SYSTEM2	Podstawowe systemy
+WIKI_TALISMAN	Talizmany
+WIKI_TEMNITE	Lochy
+WIKI_ZODIAC	Œwi¹tynia Zodiaku

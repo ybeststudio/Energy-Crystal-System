@@ -1,0 +1,21 @@
+BERANSETAOU	Mavi Ejderha
+CATACUMB	Þeytan Katakombu
+DEVILTOWER	Þeytan Kulesi
+ENERGY_CRYSTAL	Enerji Kristali
+FLAMEDUNGEON	Kýrmýzý Ejd. Kalesi
+HYDRADUNGEON	Gemi Savunmasý
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meley'in Ýni
+SNOWDUNGEON	Nemere Gözlemevi
+SPIDERBARONESA	Ö. Barones'in Yuvasý
+WIKI_AKZADUR	Akzadur zindaný
+WIKI_ALCHEMY	Simya sistemi
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biyolog
+WIKI_BOOSTER	Güçlendiriciler
+WIKI_COSTUME	Kostümler ve Skinler
+WIKI_PETS	Evcil Hayvanlar
+WIKI_SYSTEM2	Temel Sistemler
+WIKI_TALISMAN	Týlsýmlar
+WIKI_TEMNITE	Zindanlar
+WIKI_ZODIAC	Zodyak Tapýnaðý

@@ -1,0 +1,7 @@
+# Ara:
+RESULT_CENTER_X = 67 + 190 / 2 - 1
+RESULT_STAT_ROWS = 7
+
+# Altina ekle:
+ENERGY_CRYSTAL_SCROLLS = (51050, 51051)
+

@@ -1,0 +1,58 @@
+BERANSETAOU	Blauer Drache
+CATACUMB	Teufels Katakomben
+DEVILTOWER	Gumsan-Turm
+ENERGY_CRYSTAL	Energiekristall
+ENERGY_CRYSTAL_ACTIVATE	Aktivieren
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Durchschnittsschaden PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Stärke in Dungeons
+ENERGY_CRYSTAL_BONUS_ELEMENT	Elementschutz
+ENERGY_CRYSTAL_BONUS_EREBUS	Stark gegen Erebus
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	Zum Freischalten dieses Bonus wird {} benötigt.
+ENERGY_CRYSTAL_BONUS_MELEY	Stark gegen Meley
+ENERGY_CRYSTAL_CONSUME	Einen {} verwenden?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BVerstärkt deine freigeschalteten Kampfboni.|r^|cFF9FD6A8Schalte Boni frei und aktiviere den Kristall.|r^|cFFCABDABVerbessern erhöht die maximale Verstärkung.|r^|cFFCABDABKatalysatoren würfeln die Verstärkung neu.|r^|cFF87CEEBElixiere laden Energie auf.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Verwende ein Energieartefakt, ein Energieelixier oder eine Segensschriftrolle auf einen Energiekristall.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	{} dauerhaft hinzufügen?
+ENERGY_CRYSTAL_RATE	Verstärkung: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Neue Verstärkung: {:.1f}%
+ENERGY_CRYSTAL_REFINE_FAIL	Die Verbesserung des Energiekristalls ist fehlgeschlagen (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Energiekristall auf +{} verbessert.
+ENERGY_CRYSTAL_TIME	Verbleibende Energie: {} / {}
+ENERGY_CRYSTAL_TIME_D	{} T
+ENERGY_CRYSTAL_TIME_H	{} Std.
+ENERGY_CRYSTAL_TIME_LEFT	Verbleibende Zeit: {}
+ENERGY_CRYSTAL_TIME_M	{} Min.
+ENERGY_CRYSTAL_TIME_S	{} Sek.
+ENERGY_CRYSTAL_TITLE	Energiekristall
+ENERGY_CRYSTAL_TURN_OFF	Ausschalten
+ENERGY_CRYSTAL_UNLOCK	Freischalten
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Deinen Energiekristall dauerhaft freischalten?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Du benötigst einen Energiekristall-Freischalter.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	Dafür wird |cffb1a085{0}|r benötigt.
+FLAMEDUNGEON	Rote-Drachen-Festung
+HYDRADUNGEON	Schiffsverteidigung
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meleys Hort
+SHOP_TAB_ALCHEMIST	Alchemist
+SHOP_TAB_BIOLOG	Biologe
+SHOP_TAB_BIOLOG_TIME	Biologe Zeit
+SHOP_TAB_DEW_RECHARGE	Tau Aufladung
+SHOP_TAB_DRAGON_RECHARGE	Drachenaufladung
+SHOP_TAB_ENERGY_CRYSTAL	Energiekristall
+SNOWDUNGEON	Nemerés Observatorium
+SPIDERBARONESA	Nest der Spinnenbaronin
+WIKI_AKZADUR	Akzadur-Dungeon
+WIKI_ALCHEMY	Alchemie-System
+WIKI_ATTR_RARE	Bonus 6/7
+WIKI_BIOLOGO	Biologe
+WIKI_BOOSTER	Booster
+WIKI_COSTUME	Kostüme
+WIKI_ENERGY_CRYSTAL	Energiekristall
+WIKI_ENIGMA_ITEMS	Enigma Items
+WIKI_FISHING_MINING	Angeln/Bergbau
+WIKI_PETS	Pets
+WIKI_SYSTEM2	Grundsysteme
+WIKI_TALISMAN	Talismane
+WIKI_TEMNITE	Dungeons
+WIKI_ZODIAC	Tierkreistempel

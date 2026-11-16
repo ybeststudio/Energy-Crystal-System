@@ -1,0 +1,37 @@
+ENERGY_CRYSTAL_ACTIVATE	Etkinleþtir
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Ortalama Hasar PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Zindanlarda Güç
+ENERGY_CRYSTAL_BONUS_ELEMENT	Element Korumasý
+ENERGY_CRYSTAL_BONUS_EREBUS	Erebus’a Karþý Güç
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	Bu bonusu açmak için {} gerekiyor.
+ENERGY_CRYSTAL_BONUS_MELEY	Meley’e Karþý Güç
+ENERGY_CRYSTAL_CONSUME	1x {} kullanýlsýn mý?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BAçýlmýþ savaþ bonuslarýný güçlendirir.|r^|cFF9FD6A8Bonuslarý aç, ardýndan kristali etkinleþtir.|r^|cFFCABDABYükseltme, azami güçlendirmeyi artýrýr.|r^|cFFCABDABKatalizörler güçlendirmeyi yeniden rastgele belirler.|r^|cFF87CEEBÝksirler enerjiyi doldurur.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Bir enerji kristali üzerinde enerji eseri, enerji iksiri veya Kutsama Kaðýdý kullanýn.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Kalýcý olarak {} eklensin mi?
+ENERGY_CRYSTAL_RATE	Güçlendirme: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Yeni güçlendirme: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Enerji Kristali yükseltmesi baþarýsýz oldu (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Enerji Kristali +{} seviyesine yükseldi.
+ENERGY_CRYSTAL_TIME	Kalan Enerji: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}g
+ENERGY_CRYSTAL_TIME_H	{} sa.
+ENERGY_CRYSTAL_TIME_LEFT	Kalan Süre: {}
+ENERGY_CRYSTAL_TIME_M	{} dk.
+ENERGY_CRYSTAL_TIME_S	{} sn
+ENERGY_CRYSTAL_TITLE	Enerji Kristali
+ENERGY_CRYSTAL_TURN_OFF	Kapat
+ENERGY_CRYSTAL_UNLOCK	Kilidi aç
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Enerji Kristalin kalýcý olarak açýlsýn mý?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Bir Enerji Kristali Açýcý gerekiyor.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	Bunun tamamlanmasý için |cffb1a085{0}|r gerekir.
+SHOP_TAB_ALCHEMIST	Simyacý
+SHOP_TAB_BIOLOG	Biyolog
+SHOP_TAB_BIOLOG_TIME	Biyolog Zamaný
+SHOP_TAB_DEW_RECHARGE	Þebnem Yenileme
+SHOP_TAB_DRAGON_RECHARGE	Ejderha Þarjý
+SHOP_TAB_ENERGY_CRYSTAL	Enerji Kristali
+WIKI_ENERGY_CRYSTAL	Enerji Kristali
+WIKI_ENIGMA_ITEMS	Enigma Eþyalarý
+WIKI_FISHING_MINING	Balýkçýlýk/Madencilik

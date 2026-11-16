@@ -1,0 +1,8 @@
+// Ara:
+	AFFECT_SEARCH_SHOP_PREMIUM = 551,
+
+// Altina ekle:
+#ifdef ENABLE_ENERGY_CRYSTAL
+	AFFECT_ENERGY_CRYSTAL = 930,
+#endif
+

@@ -1,0 +1,58 @@
+BERANSETAOU	Kék Sárkány
+CATACUMB	Ördög katakombái
+DEVILTOWER	Gumsan torony
+ENERGY_CRYSTAL	Energiakristály
+ENERGY_CRYSTAL_ACTIVATE	Aktiválás
+ENERGY_CRYSTAL_BONUS_AVERAGE_PVM	Átlagos sebzés PvM
+ENERGY_CRYSTAL_BONUS_DUNGEON	Erõ a kazamatákban
+ENERGY_CRYSTAL_BONUS_ELEMENT	Elemvédelem
+ENERGY_CRYSTAL_BONUS_EREBUS	Erebus elleni erõ
+ENERGY_CRYSTAL_BONUS_GAIN	{}: +{}%
+ENERGY_CRYSTAL_BONUS_ITEM_MISSING	A bónusz feloldásához szükséges: {}.
+ENERGY_CRYSTAL_BONUS_MELEY	Meley elleni erõ
+ENERGY_CRYSTAL_CONSUME	Használsz 1x {} tárgyat?
+ENERGY_CRYSTAL_HELP_SHORT	|cFFD7B25BFelerõsíti a feloldott harci bónuszaidat.|r^|cFF9FD6A8Oldd fel a bónuszokat, majd aktiváld a kristályt.|r^|cFFCABDABA fejlesztés növeli a maximális erõsítést.|r^|cFFCABDABA katalizátorok újrasorsolják az erõsítést.|r^|cFF87CEEBAz elixírek feltöltik az energiát.|r
+ENERGY_CRYSTAL_INVALID_TARGET	Használj energia mûtárgyat, energia italt vagy Áldás Tekercset egy Energiakristályon.
+ENERGY_CRYSTAL_PERMANENT_CONFIRM	Véglegesen hozzáadod: {}?
+ENERGY_CRYSTAL_RATE	Erõsítés: {:.1f}% / {:g}%
+ENERGY_CRYSTAL_RATE_RESULT	Új erõsítés: %{:.1f}
+ENERGY_CRYSTAL_REFINE_FAIL	Az Energiakristály fejlesztése sikertelen (+{}).
+ENERGY_CRYSTAL_REFINE_SUCCESS	Az Energiakristály +{} szintre fejlõdött.
+ENERGY_CRYSTAL_TIME	Hátralévõ energia: {} / {}
+ENERGY_CRYSTAL_TIME_D	{}n
+ENERGY_CRYSTAL_TIME_H	{} ó
+ENERGY_CRYSTAL_TIME_LEFT	Hátralévõ idõ: {}
+ENERGY_CRYSTAL_TIME_M	{} p
+ENERGY_CRYSTAL_TIME_S	{} mp
+ENERGY_CRYSTAL_TITLE	Energiakristály
+ENERGY_CRYSTAL_TURN_OFF	Bezár
+ENERGY_CRYSTAL_UNLOCK	Feloldás
+ENERGY_CRYSTAL_UNLOCK_CONFIRM	Véglegesen feloldod az energiakristályodat?
+ENERGY_CRYSTAL_UNLOCK_MISSING	Egy energiakristály-feloldóra van szükséged.
+ENERGY_CRYSTAL_UNLOCK_REQUIRES	Ennek teljesítéséhez szükséges: |cffb1a085{0}|r.
+FLAMEDUNGEON	Vörös Sárkány erõdje
+HYDRADUNGEON	Hajóvédelem
+JOTUN_DUNGEON	Jotun Thrym
+MELEYDUNGEON	Meley odúja
+SHOP_TAB_ALCHEMIST	Alkimista
+SHOP_TAB_BIOLOG	Biológus
+SHOP_TAB_BIOLOG_TIME	Biológus idõ
+SHOP_TAB_DEW_RECHARGE	Harmat feltöltés
+SHOP_TAB_DRAGON_RECHARGE	Dragon Recharge
+SHOP_TAB_ENERGY_CRYSTAL	Energiakristály
+SNOWDUNGEON	Nemere csillagvizsgálója
+SPIDERBARONESA	Pókbárónõ odúja
+WIKI_AKZADUR	Akzadur-kazamata
+WIKI_ALCHEMY	Alkímia rendszer
+WIKI_ATTR_RARE	Bónusz 6/7
+WIKI_BIOLOGO	Biológus
+WIKI_BOOSTER	Erõsítõk
+WIKI_COSTUME	Jelmezek
+WIKI_ENERGY_CRYSTAL	Energiakristály
+WIKI_ENIGMA_ITEMS	Enigma tárgyak
+WIKI_FISHING_MINING	Halászat/bányászat
+WIKI_PETS	Házikedvencek
+WIKI_SYSTEM2	Alaprendszerek
+WIKI_TALISMAN	Talizmánok
+WIKI_TEMNITE	Kazamaták
+WIKI_ZODIAC	Zodiákus templom
